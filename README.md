@@ -1,0 +1,2 @@
+# SunshineDuration
+In this study, a multilayer perceptron (MLP) type artificial neural network model is built in order to estimate monthly mean sunshine duration for Turkey using the EUMETSAT CM SAF (Satellite Application Facility on Climate Monitoring) CFC (Cloud Fractional Coverage) and CTY (Cloud Type) data, GMTED2010 (Global Multi-resolution Terrain Elevation Data) digital elevation data, month number and daylength.
